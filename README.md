@@ -1,3 +1,3 @@
 ## Machine Learning Project 2024
 
-End-to-end machine learning project with deployment
+End-to-end machine learning project with deployment on AWS
