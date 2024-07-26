@@ -1,2 +1,3 @@
 ## Machine Learning Project 2024
-End to end project
+
+End-to-end machine learning project with deployment
