@@ -16,7 +16,7 @@ def get_requirements(file_path: str) -> List[str]:
 
 # Metadata information about the project
 setup(
-    name='ML-Projects-2024',
+    name='studentperformance',
     version='0.0.1',
     author='Nihar Tripathi',
     author_email='nihartripathi00@gmail.com',
